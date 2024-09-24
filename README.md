@@ -5,3 +5,11 @@
 -> The core aim of this project is to create a fully functional virtual calculator that can be operated through hand gestures.
 
 ![image](https://github.com/user-attachments/assets/82470d36-9d4a-47d8-8c0f-35f50c8fe87c)
+
+
+![image](https://github.com/user-attachments/assets/9b44c392-46b2-4b20-80c7-f8b56adc12e3)
+
+
+![image](https://github.com/user-attachments/assets/88d62cbf-9a1d-488e-a4df-e412440810bf)
+
+
